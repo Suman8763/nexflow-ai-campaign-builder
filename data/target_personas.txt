@@ -1,0 +1,81 @@
+Target Personas for NexFlow
+
+Persona 1 – Executive (CEO / COO / CFO)
+Primary Goals:
+• Increase revenue predictability
+• Improve ROI on marketing spend
+• Reduce operational inefficiencies
+
+Pain Points:
+• High customer acquisition costs
+• Low conversion visibility
+• Inconsistent lead quality
+
+Language Preference:
+• Data-driven
+• Strategic
+• ROI-focused
+• Risk-aware
+
+Avoid:
+• Technical jargon
+• Overly tactical marketing details
+
+CTA Style:
+• Strategic consultation
+• ROI assessment call
+• Executive demo
+
+---
+
+Persona 2 – Developer (CTO / Technical Lead)
+Primary Goals:
+• Ensure system reliability
+• Evaluate integration feasibility
+• Maintain data security standards
+
+Pain Points:
+• API limitations
+• Security compliance risks
+• Poor documentation
+
+Language Preference:
+• Technical
+• Specific
+• Architecture-focused
+
+Avoid:
+• Marketing buzzwords
+• Vague performance claims
+
+CTA Style:
+• Technical demo
+• API documentation review
+• Integration walkthrough
+
+---
+
+Persona 3 – Marketing Manager (Head of Growth / Marketing)
+Primary Goals:
+• Increase qualified leads
+• Launch campaigns faster
+• Improve engagement metrics
+
+Pain Points:
+• Manual campaign work
+• Low email open rates
+• Poor segmentation
+
+Language Preference:
+• Energetic
+• Results-oriented
+• Tactical
+
+Avoid:
+• Overly financial framing
+• Technical infrastructure details
+
+CTA Style:
+• Start free trial
+• Launch campaign now
+• Download templates

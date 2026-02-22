@@ -1,0 +1,37 @@
+NexFlow Pricing Plans
+
+Starter Plan – €299 per month
+Designed for small B2B teams.
+Includes:
+• AI lead scoring
+• Email automation
+• Basic segmentation
+• Up to 10,000 contacts
+• Standard analytics dashboard
+
+Growth Plan – €799 per month
+For scaling marketing teams.
+Includes:
+• All Starter features
+• LinkedIn automation workflows
+• Paid ad retargeting triggers
+• Advanced segmentation
+• Up to 50,000 contacts
+• Conversion tracking & ROI dashboard
+
+Enterprise Plan – Custom Pricing
+For large organizations.
+Includes:
+• Unlimited contacts
+• Custom API integrations
+• Dedicated account manager
+• SLA-backed support
+• Custom AI model tuning
+
+ROI Benchmarks:
+Customers report:
+• 25–38% increase in qualified leads
+• 18% average reduction in cost per acquisition
+• 30% faster follow-up response time
+
+Free 14-day trial available for Starter and Growth plans.
