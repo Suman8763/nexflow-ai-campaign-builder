@@ -2,10 +2,10 @@ streamlit
 langchain
 langchain-community
 langchain-core
+langchain-huggingface
 langchain-chroma
 chromadb
 sentence-transformers
-pydantic
 groq
 python-dotenv
-tiktoken
+pydantic
